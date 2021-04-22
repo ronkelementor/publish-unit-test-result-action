@@ -1,8 +1,7 @@
 FROM python:3.6-alpine
 
-LABEL repository="https://github.com/EnricoMi/publish-unit-test-result-action"
-LABEL homepage="https://github.com/EnricoMi/publish-unit-test-result-action"
-LABEL maintainer="Enrico Minack <github@Enrico.Minack.dev>"
+LABEL repository="https://github.com/ronkelementor/publish-unit-test-result-action"
+LABEL homepage="https://github.com/ronkelementor/publish-unit-test-result-action"
 
 LABEL com.github.actions.name="Publish Unit Test Results"
 LABEL com.github.actions.description="A GitHub Action to publish unit test results."
